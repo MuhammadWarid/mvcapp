@@ -17,10 +17,14 @@
 
 #email{
 	width: 300px;
-	margin-left: 535px;
+	margin-left: 533px;
 }
 
 #password{
 	width: 300px;
-	margin-left: 535px;
+	margin-left: 533px;
+}
+
+.btn{
+	width: 300px;
 }
